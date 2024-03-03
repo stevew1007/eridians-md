@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: '波江座',
-  author: '',
+  author: 'Rockey',
   headerTitle: '波江座 40B',
   description: "An engineer's personal blog",
   language: 'en-us',
