@@ -4021,6 +4021,8 @@ __metadata:
     husky: ^8.0.0
     image-size: ^1.1.1
     lint-staged: ^13.0.0
+    lxgw-wenkai-screen-webfont: ^1.7.0
+    lxgw-wenkai-webfont: ^1.7.0
     mdx: ^0.2.3
     next: ^14.1.1
     next-contentlayer: 0.3.4
@@ -7664,6 +7666,20 @@ __metadata:
   dependencies:
     yallist: ^4.0.0
   checksum: f97f499f898f23e4585742138a22f22526254fdba6d75d41a1c2526b3b6cc5747ef59c5612ba7375f42aca4f8461950e925ba08c991ead0651b4918b7c978297
+  languageName: node
+  linkType: hard
+
+"lxgw-wenkai-screen-webfont@npm:^1.7.0":
+  version: 1.7.0
+  resolution: "lxgw-wenkai-screen-webfont@npm:1.7.0"
+  checksum: ca0eee84fe498f815a8220441ae5e30cb4bfeedaca55e5bc4f989a1bfb391211ce82edd30ad69aca87c1c48a3d86c142713af1bb177dc9813afe607e90e5dfb9
+  languageName: node
+  linkType: hard
+
+"lxgw-wenkai-webfont@npm:^1.7.0":
+  version: 1.7.0
+  resolution: "lxgw-wenkai-webfont@npm:1.7.0"
+  checksum: d37e92c73ebf0fb5dd06d1e82540d35c527225d819d4bd10bf768b86f457c24043fd6b3933b4c34242f65c177e3d52feab04bdc008dd07cde22b5e1f33f1ce95
   languageName: node
   linkType: hard
 
